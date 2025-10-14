@@ -5,7 +5,7 @@ LoRa-Space is a simulator for Direct-to-Satellite IoT (DtS-IoT) networks based o
 
 The tool enables realistic modeling of LEO satellite-based LoRa networks, allowing users to evaluate performance under a variety of orbital, link, and traffic configurations.
 
-## 🌍 Scenarios
+## Scenarios
 - narrow scenario: Optimized for dense device deployments within a limited coverage area.
 - wider scenario: Suitable for large-scale or regional networks, simulating broader satellite footprints and more diverse device distributions.
 
@@ -16,7 +16,7 @@ The tool enables realistic modeling of LEO satellite-based LoRa networks, allowi
 - Parameter Customization: Configure key LoRa end-device parameters, including: Spreading Factor (SF), Transmission Power (TX Power), Data Payload Size, Bandwidth and Frequency Channel
 - Performance Evaluation: Collect metrics such as packet delivery ratio, collision rate, and channel utilization.
 
-## 🛠️ Requirements
+## Requirements
 - Python 3.x
 - Libraries: simpy, numpy, math, sys
 
